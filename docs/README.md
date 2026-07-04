@@ -19,4 +19,5 @@ Este guia foi gerado utilizando o NotebookLM com base nas referências bibliogr�
 - Glossário
 
 > O guia completo encontra-se no arquivo PDF disponibilizado neste diretório.
-[Comprehensive Study Guide_ Fundamentals and Applications of Machine Learning.pdf](https://github.com/user-attachments/files/29659772/Comprehensive.Study.Guide_.Fundamentals.and.Applications.of.Machine.Learning.pdf)
+[Guia de Estudos_ Fundamentos e Aplicações de Aprendizado de Máquina.pdf](https://github.com/user-attachments/files/29659822/Guia.de.Estudos_.Fundamentos.e.Aplicacoes.de.Aprendizado.de.Maquina.pdf)
+
