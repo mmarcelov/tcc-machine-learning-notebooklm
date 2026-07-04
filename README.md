@@ -18,19 +18,17 @@
 
 ## Sobre o Projeto
 
-Este repositório documenta o uso do **NotebookLM** como ferramenta de apoio aos estudos e à pesquisa para o desenvolvimento do Trabalho de Conclusão de Curso (TCC).
+Este repositório foi desenvolvido como parte do desafio da DIO, utilizando o NotebookLM para organizar referências bibliográficas, testar estratégias de engenharia de prompts e sintetizar conhecimentos sobre Machine Learning.
 
-O objetivo é utilizar Inteligência Artificial para organizar referências bibliográficas, resumir conteúdos científicos, comparar metodologias e estruturar conhecimentos relacionados à área de **Machine Learning aplicado à Ciência de Dados**.
-
-Além de atender ao desafio proposto pela DIO, este repositório servirá como material de consulta durante o desenvolvimento do TCC.
+O tema foi escolhido por estar alinhado à proposta inicial do meu Trabalho de Conclusão de Curso (TCC) em Sistemas de Informação. Embora o TCC ainda esteja em fase de planejamento, este projeto servirá como um espaço para registrar estudos, referências e materiais produzidos durante a etapa de pesquisa.
 
 ---
 
 ## Motivação
 
-O tema foi escolhido por estar alinhado ao meu Trabalho de Conclusão de Curso (TCC) em Sistemas de Informação.
+Escolhi este tema porque ele está diretamente relacionado ao projeto de pesquisa desenvolvido na primeira etapa do meu TCC.
 
-Além de atender ao desafio da DIO, este repositório será utilizado como base para organização da revisão bibliográfica e consolidação dos estudos em Machine Learning aplicado à Ciência de Dados.
+A proposta é utilizar este repositório como um ambiente de organização dos estudos e experimentação com o NotebookLM, reunindo materiais que poderão apoiar as próximas fases da pesquisa.
 
 ---
 
@@ -200,14 +198,26 @@ Crie um resumo em tópicos para revisão antes da escrita do TCC.
 
 ---
 
-# Próximos Passos
+## Roadmap
 
-- [ ] Escolher o dataset definitivo
-- [ ] Realizar a EDA
-- [ ] Implementar os modelos
-- [ ] Comparar métricas
-- [ ] Escrever os resultados
-- [ ] Atualizar este repositório durante o desenvolvimento do TCC
+### Concluído
+
+- [x] Definição do tema
+- [x] Elaboração do projeto de pesquisa
+- [x] Seleção das referências iniciais
+- [x] Organização do NotebookLM
+- [x] Geração de guia de estudos
+- [x] Criação de mapas mentais
+
+### Próximas etapas
+
+- [ ] Revisão bibliográfica aprofundada
+- [ ] Escolha do dataset
+- [ ] Análise Exploratória de Dados (EDA)
+- [ ] Pré-processamento
+- [ ] Implementação dos modelos
+- [ ] Avaliação dos resultados
+- [ ] Redação do TCC
 
 ---
 
@@ -225,6 +235,8 @@ Crie um resumo em tópicos para revisão antes da escrita do TCC.
 ---
 
 > **Nota:** Este repositório não distribui livros protegidos por direitos autorais. Apenas referências bibliográficas, links oficiais e materiais produzidos durante os estudos são disponibilizados.
+
+> **Observação:** O documento do projeto de pesquisa disponibilizado neste repositório corresponde à primeira etapa do Trabalho de Conclusão de Curso (TCC). O desenvolvimento da pesquisa e dos experimentos será realizado posteriormente.
 
 ---
 
