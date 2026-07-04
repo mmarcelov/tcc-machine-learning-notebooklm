@@ -4,6 +4,17 @@
 > Projeto desenvolvido como parte do desafio da DIO utilizando o NotebookLM como ferramenta de apoio à pesquisa científica e organização de conhecimento.
 
 ---
+## Estrutura do Repositório
+
+```text
+.
+├── assets/          # Capturas de tela e mapas mentais
+├── docs/            # Guias de estudo e documentação
+├── papers/          # Artigos e referências
+├── prompts/         # Prompts utilizados no NotebookLM
+├── referencias/     # Livros e documentação oficial
+└── README.md
+```
 
 ## Sobre o Projeto
 
@@ -12,6 +23,14 @@ Este repositório documenta o uso do **NotebookLM** como ferramenta de apoio aos
 O objetivo é utilizar Inteligência Artificial para organizar referências bibliográficas, resumir conteúdos científicos, comparar metodologias e estruturar conhecimentos relacionados à área de **Machine Learning aplicado à Ciência de Dados**.
 
 Além de atender ao desafio proposto pela DIO, este repositório servirá como material de consulta durante o desenvolvimento do TCC.
+
+---
+
+## Motivação
+
+O tema foi escolhido por estar alinhado ao meu Trabalho de Conclusão de Curso (TCC) em Sistemas de Informação.
+
+Além de atender ao desafio da DIO, este repositório será utilizado como base para organização da revisão bibliográfica e consolidação dos estudos em Machine Learning aplicado à Ciência de Dados.
 
 ---
 
@@ -265,6 +284,10 @@ Crie um resumo em tópicos para revisão antes da escrita do TCC.
 - Matplotlib
 - Kaggle
 - GitHub
+
+---
+
+> **Nota:** Este repositório não distribui livros protegidos por direitos autorais. Apenas referências bibliográficas, links oficiais e materiais produzidos durante os estudos são disponibilizados.
 
 ---
 
